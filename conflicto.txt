@@ -1,1 +1,2 @@
 Vamos a conflictuar este archivo adrede
+La segunda linea la editare desde GitHub
